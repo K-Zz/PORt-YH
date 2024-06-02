@@ -11,7 +11,7 @@ const AnekTelugu = Anek_Telugu({
 });
 
 export const metadata: Metadata = {
-  title: "Yanis Hamoudi - Administrateur systèmes et réseaux",
+  title: "Yanis Hamoudi - Portfolio",
   description:
     "Portfolio Yanis Hamoudi, Administrateur systèmes et réseaux",
 };
