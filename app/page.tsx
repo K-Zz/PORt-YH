@@ -11,11 +11,11 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Yanis Hamoudi - Administrateur réseau et systemes</title>
+        <title>Yanis Hamoudi - Portfolio</title>
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Portfolio de Yanis Hamoudi - Administrateur réseau et systemes"
+          content="Portfolio de Yanis Hamoudi - Portfolio"
         />
         <script
           async
