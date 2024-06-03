@@ -38,7 +38,6 @@ export const Hero = () => {
         <div className="flex-[2] max-md:m-auto ml-auto z-10 relative">
           <img
             src="https://i.ibb.co/jwXD5T3/photo-profile.jpg"
-            class="w-full h-auto max-w-xs max-md:w-56 rounded-full"
             className="w-full h-auto max-w-xs max-md:w-56 rounded-full transition duration-300 transform hover:scale-110"
             alt="Yanis'picture"
           />
