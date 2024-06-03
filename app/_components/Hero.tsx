@@ -20,7 +20,7 @@ export const Hero = () => {
           </h2>
           <h3 className="text-3xl font-caption">Administrateur systèmes et réseaux</h3>
           <p className="text-base">
-            Je cherche actuellement une alternance en ingenerie informatique en complement de ma formation à l'ecole d'ingenieur{" "}
+            Je recherche actuellement une alternance en ingénierie informatique en complément de ma formation à l'école d'ingénieur{" "}
             <Link href="https://www.cesi.fr/">
               <Code className="inline-flex items-center gap-2">
                 CESI
