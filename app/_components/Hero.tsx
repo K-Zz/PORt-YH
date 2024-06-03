@@ -20,17 +20,21 @@ export const Hero = () => {
           </h2>
           <h3 className="text-3xl font-caption">Administrateur systèmes et réseaux</h3>
           <p className="text-base">
-            Je recherche actuellement une alternance en ingénierie informatique en complément de ma formation à l'école d'ingénieur{" "}
+            Je cherche actuellement une alternance en ingenerie informatique en complement de ma formation à l'ecole d'ingenieur{" "}
             <Link href="https://www.cesi.fr/">
               <Code className="inline-flex items-center gap-2">
                 CESI
               </Code>
             </Link>{" "}
             </p>
-            <Button className="w-max px-4 mt-10">
+            </div>
+            <div className="justify-center mt-10">
+              <div className="relative left-[-350px] mt-[220px]"> 
+            <Button className="px-8 py-4 bg-white text-black font-semibold rounded-lg shadow-md hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-75 transition duration-300 transform hover:scale-110 hover:shadow-lg hover:-translate-y-1">
               <Link href="https://drive.google.com/file/d/1SHUOyVTX_S5E1hZnWAg77IYkx6dHssAF/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Mon CV</Link>
              </Button>
-            </div>
+              </div>
+            </div>     
         <div className="flex-[2] max-md:m-auto ml-auto z-10">
           <img
             src="https://i.ibb.co/jwXD5T3/photo-profile.jpg"
