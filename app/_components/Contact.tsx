@@ -5,8 +5,8 @@ import { ContactCard } from "./ContactCard";
 export const Contact = () => {
   return (
     <Section className="inline-flex items-center gap-4 hover:bg-accent/50 rounded flex flex-col items-start gap-1">
-      <div className="border border-black rounded-lg w-full mt-[-7rem]"> {/* Ajustement de la marge supérieure */}
-        <div className="flex flex-col gap-9 p-3 bg-black rounded-lg"> {/* Ajout de la classe bg-black pour le fond noir */}
+      <div className="border border rounded-lg w-full mt-[-7rem]"> {/* Ajustement de la marge supérieure */}
+        <div className="flex flex-col gap-9 p-3 bg-transparancy rounded-lg"> {/* Ajout de la classe bg-black pour le fond noir */}
           <div className="flex max-md:flex-col w-full gap-4 mt-1">
             <ContactCard
               name="Mail"
