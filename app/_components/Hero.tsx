@@ -29,16 +29,17 @@ export const Hero = () => {
             </p>
             </div>
             <div className="justify-center mt-10">
-              <div className="relative left-[-350px] mt-[220px]"> 
+              <div className="relative lg:left-[-350px] lg:mt-[220px]"> 
             <Button className="px-8 py-4 bg-white text-black font-semibold rounded-lg shadow-md hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-75 transition duration-300 transform hover:scale-110 hover:shadow-lg hover:-translate-y-1">
               <Link href="https://drive.google.com/file/d/1SHUOyVTX_S5E1hZnWAg77IYkx6dHssAF/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Mon CV</Link>
              </Button>
               </div>
             </div>     
-        <div className="flex-[2] max-md:m-auto ml-auto z-10">
+        <div className="flex-[2] max-md:m-auto ml-auto z-10 relative">
           <img
             src="https://i.ibb.co/jwXD5T3/photo-profile.jpg"
-            className="w-full h-auto max-w-xs max-md:w-56 rounded-full"
+            class="w-full h-auto max-w-xs max-md:w-56 rounded-full"
+            className="w-full h-auto max-w-xs max-md:w-56 rounded-full transition duration-300 transform hover:scale-110"
             alt="Yanis'picture"
           />
         </div>
