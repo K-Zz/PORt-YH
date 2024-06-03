@@ -55,7 +55,7 @@ type ParcourProps = {
 
 export const ParcourProps = (props: ParcourProps) => {
   return (
-    <div className="inline-flex items-center gap-3 p-1 rounded bg-black text-white">
+    <div className="inline-flex items-center gap-4 hover:bg-accent/50 transition-colors p-1 rounded">
       <img
         src={props.image}
         alt={props.title}
