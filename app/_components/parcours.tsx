@@ -19,10 +19,10 @@ export const PARC: ParcourProps[] = [
     url: "https://www.fdgl.fr/",
   },
   {
-    title: "GRETA Lyon",
-    role: "Bac +2 Informatique (Réseaux & Cybersécurité) ",
+    title: "Université de Lyon",
+    role: "Diplome d’étude supérieure +2 Informatique (Réseaux & Cybersécurité) ",
     image:
-      "https://media.licdn.com/dms/image/C4E0BAQHsgoG-4ojPFw/company-logo_200_200/0/1672740512123/greta_lyon_mtropole_logo?e=1725494400&v=beta&t=yhVJdOEFoDkl0Lua_W3ZCwSRg6-DSlHM7PknjNPsOWc",
+      "https://media.licdn.com/dms/image/C4D0BAQHajSv4G3XCKw/company-logo_200_200/0/1631331403102?e=1725494400&v=beta&t=92KyjEH5DUp0CtFxLZT_EMlAzlF2UZDXYD8hXauUHsg",
     date: "2023 2021",
     url: "https://www.chu-lyon.fr/",
   },
