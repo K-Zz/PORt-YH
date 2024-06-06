@@ -5,7 +5,7 @@ export const Footer = () => {
     <footer className="bg-card">
       <Section className="py-8">
         <p className="text-muted-foreground text-sm">
-          @Copywrite 2024 Yanis Hamoudi
+          © Yanis Hamoudi 2024 
         </p>
       </Section>
     </footer>
