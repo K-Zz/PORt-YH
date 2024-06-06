@@ -36,7 +36,7 @@ export const PARC: ParcourProps[] = [
   },
   {
     title: "La Martiniere Monplaisir",
-    role: "Baccalauréat Science Système numérique",
+    role: "Baccalauréat Sciences informatiques",
     image:
       "https://media.licdn.com/dms/image/C560BAQFVSyolETk-gw/company-logo_200_200/0/1630594837417?e=1725494400&v=beta&t=5rZ3Rshsij7TKSF6_Mpb4GZmKJZ5xo0XXyBXrtdwoMk",
     date: "2020 2018",
