@@ -10,14 +10,14 @@ export const Contact = () => {
           <div className="flex max-md:flex-col w-full gap-4 mt-1">
             <ContactCard
               name="Mail"
-              image="https://media.licdn.com/dms/image/D4D03AQFp-DZm2_K4qg/profile-displayphoto-shrink_800_800/0/1717290563912?e=1723075200&v=beta&t=VqFKvuUFpKdTQo7WwRQzv2yVk4xfQJ3LPSQa2DtElwY"
+              image="https://i.ibb.co/jwXD5T3/photo-profile.jpg"
               mediumImage="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw"
               description="yanis.hamoudi06@gmail.com"
               url="mailto:yanis.hamoudi06@gmail.com"
             />
             <ContactCard
               name="LinkedIn"
-              image="https://media.licdn.com/dms/image/D4D03AQFp-DZm2_K4qg/profile-displayphoto-shrink_800_800/0/1717290563912?e=1723075200&v=beta&t=VqFKvuUFpKdTQo7WwRQzv2yVk4xfQJ3LPSQa2DtElwY"
+              image="https://i.ibb.co/jwXD5T3/photo-profile.jpg"
               mediumImage="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"
               description="Yanis Hamoudi"
               url="https://www.linkedin.com/in/yanis-hamoudi/"
