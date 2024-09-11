@@ -13,19 +13,19 @@ export const WORK: WorkProps[] = [
     freelance: true,
   },
   {
-    title: "Dispensaire General de Lyon",
+    title: "Dispensaire Général de Lyon",
     role: "Administrateur systèmes et réseaux",
     image:
-      "https://media.licdn.com/dms/image/D4E0BAQGvrtdop5jGdg/company-logo_200_200/0/1664804219104/fondation_dispensaire_general_de_lyon_logo?e=1725494400&v=beta&t=AyTcChHOcPG41fNj3FKTH8DfzpoeQ6YFjhiTcGYLpT8",
+      "https://media.licdn.com/dms/image/v2/D4E0BAQGvrtdop5jGdg/company-logo_200_200/company-logo_200_200/0/1664804219104/fondation_dispensaire_general_de_lyon_logo?e=1733961600&v=beta&t=OHKkQFeRRaH0XT23JUwxpBSCrHn4DWDq1FpoLWSJWVc",
     date: "2024 2023",
     url: "https://www.fdgl.fr/",
     freelance: true,
   },
   {
-    title: "Dispensaire General de Lyon",
+    title: "Dispensaire Général de Lyon",
     role: "Technicien Informatique",
     image:
-      "https://media.licdn.com/dms/image/D4E0BAQGvrtdop5jGdg/company-logo_200_200/0/1664804219104/fondation_dispensaire_general_de_lyon_logo?e=1725494400&v=beta&t=AyTcChHOcPG41fNj3FKTH8DfzpoeQ6YFjhiTcGYLpT8",
+      "https://media.licdn.com/dms/image/v2/D4E0BAQGvrtdop5jGdg/company-logo_200_200/company-logo_200_200/0/1664804219104/fondation_dispensaire_general_de_lyon_logo?e=1733961600&v=beta&t=OHKkQFeRRaH0XT23JUwxpBSCrHn4DWDq1FpoLWSJWVc",
     date: "2023 2021",
     url: "https://www.fdgl.fr/",
     freelance: true,
@@ -34,7 +34,7 @@ export const WORK: WorkProps[] = [
     title: "Hospices Civils Lyon",
     role: "Stage Informatique",
     image:
-      "https://media.licdn.com/dms/image/C560BAQEQxK1n5939Fg/company-logo_200_200/0/1630591046268/hospices_civils_de_lyon_logo?e=1725494400&v=beta&t=0P9yE_8wXyFeLfVgjILw5gaRlaLl5ja2m6JyVjXHOXU",
+      "https://media.licdn.com/dms/image/v2/C560BAQEQxK1n5939Fg/company-logo_200_200/company-logo_200_200/0/1630591046268/hospices_civils_de_lyon_logo?e=1733961600&v=beta&t=vHNV6oBtW6Kp_9nHSawG92S5uSV-ulp_DRqqiI6bp24",
     date: "2 mois",
     url: "https://www.chu-lyon.fr/",
   },
