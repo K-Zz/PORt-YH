@@ -16,7 +16,7 @@ export const PARC: ParcourProps[] = [
     image:
       "https://media.licdn.com/dms/image/v2/D4E0BAQES4WRs2XOxEQ/company-logo_200_200/company-logo_200_200/0/1697874345787/iut_lyon_1_logo?e=1733961600&v=beta&t=RY0r36wc61IAij00rrLdWYYmBrfVeqVFXRrc7_PKvxE",
     date: "2023 2023",
-    url: "https://iut.univ-lyon1.fr/",
+    url: "",
   },
   {
     title: "Université de Lyon",
@@ -24,7 +24,7 @@ export const PARC: ParcourProps[] = [
     image:
       "https://media.licdn.com/dms/image/v2/C4D0BAQHajSv4G3XCKw/company-logo_200_200/company-logo_200_200/0/1631331403102?e=1733961600&v=beta&t=IDPPjo7TZAy0nDAOQ1pQBU4I5kjjP_QwvJJkGHJvROM",
     date: "2023 2021",
-    url: "https://www.chu-lyon.fr/",
+    url: "",
   },
   {
     title: "Edouard Branly",
@@ -32,7 +32,7 @@ export const PARC: ParcourProps[] = [
     image:
       "https://media.licdn.com/dms/image/v2/C4E0BAQGknvKqpRdm8Q/company-logo_200_200/company-logo_200_200/0/1655918963085/lyce_edouard_branly_logo?e=1733961600&v=beta&t=2J_uHj0zURR72kSy_F6ZGrOlQYDwVMRHZLcvS-jn35Q",
     date: "2021 2020",
-    url: "http://www.lyceebranly.com/",
+    url: ",
   },
   {
     title: "La Martiniere Monplaisir",
@@ -40,7 +40,7 @@ export const PARC: ParcourProps[] = [
     image:
       "https://media.licdn.com/dms/image/v2/C560BAQFVSyolETk-gw/company-logo_200_200/company-logo_200_200/0/1630594837417?e=1733961600&v=beta&t=On9tCy4p2hUGFtMjDdFCnJTuKZpAKmbEkiX7luJXCfs,
     date: "2020 2018",
-    url: "https://martiniere-monplaisir.ent.auvergnerhonealpes.fr/",
+    url: "",
   },
 ];
 
