@@ -18,9 +18,9 @@ export const Hero = () => {
           <h2 className="font-caption text-5xl font-bold text-primary">
             Yanis Hamoudi
           </h2>
-          <h3 className="text-3xl font-caption">Administrateur systèmes et réseaux</h3>
+          <h3 className="text-3xl font-caption">Ingénieur systèmes et réseaux</h3>
           <p className="text-base">
-            Je suis actuellement une alternance en ingenerie informatique en complement de ma formation à l'ecole d'ingenieur{" "}
+            Je suis actuellement en alternance ingénierie informatique en complement de ma formation à l'ecole d'ingenieur{" "}
             <Link href="https://www.cesi.fr/">
               <Code className="inline-flex items-center gap-2">
                 CESI
