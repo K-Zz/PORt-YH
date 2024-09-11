@@ -36,11 +36,11 @@ export const PARC: ParcourProps[] = [
   },
   {
     title: "La Martiniere Monplaisir",
-    role: "Baccalauréat (Sciences informatiques appliquées)",
+    role: "Baccalauréat Science Système numérique",
     image:
-      "https://media.licdn.com/dms/image/v2/C560BAQFVSyolETk-gw/company-logo_200_200/company-logo_200_200/0/1630594837417?e=1733961600&v=beta&t=On9tCy4p2hUGFtMjDdFCnJTuKZpAKmbEkiX7luJXCfs",
+      "https://media.licdn.com/dms/image/C4E0BAQGknvKqpRdm8Q/company-logo_200_200/0/1655918963085/lyce_edouard_branly_logo?e=1725494400&v=beta&t=NxokgwBuSHITw3kYBE-5-mS-wv6n6NoZAbbjxuLvY3o",
     date: "2020 2018",
-    url: "",
+    url: "https://www.chu-lyon.fr/",
   },
 ];
 
