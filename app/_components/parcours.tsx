@@ -15,7 +15,7 @@ export const PARC: ParcourProps[] = [
     role: "3. Informatique et systèmes",
     image:
       "https://media.licdn.com/dms/image/v2/D4E0BAQES4WRs2XOxEQ/company-logo_200_200/company-logo_200_200/0/1697874345787/iut_lyon_1_logo?e=1733961600&v=beta&t=RY0r36wc61IAij00rrLdWYYmBrfVeqVFXRrc7_PKvxE",
-    date: "2023",
+    date: "2023 2023",
     url: "https://iut.univ-lyon1.fr/",
   },
   {
