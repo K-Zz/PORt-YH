@@ -11,10 +11,10 @@ export const PARC: ParcourProps[] = [
     url: "",
   },
   {
-    title: "Isitech",
-    role: "Licence 3 Responsable de Projets Informatiques",
+    title: "IUT Lyon 1",
+    role: "3. Informatique et systèmes",
     image:
-      "https://media.licdn.com/dms/image/C4E0BAQG-JuRmlNp1_Q/company-logo_200_200/0/1630592280933/isitech_ecole_dalternance_en_informatique_logo?e=1725494400&v=beta&t=ZY-Wytplp5OZZA2glu_3r52PuZJ4MGdprI6Tnw0Tmzw",
+      "https://https://media.licdn.com/dms/image/v2/D4E0BAQES4WRs2XOxEQ/company-logo_200_200/company-logo_200_200/0/1697874345787/iut_lyon_1_logo?e=1733961600&v=beta&t=RY0r36wc61IAij00rrLdWYYmBrfVeqVFXRrc7_PKvxE",
     date: "2024 2023",
     url: "https://www.fdgl.fr/",
   },
