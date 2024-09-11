@@ -7,7 +7,7 @@ export const WORK: WorkProps[] = [
     title: "",
     role: "Ingénieur Réseaux & Système",
     image:
-      "https://media.licdn.com/dms/image/D4E0BAQGvrtdop5jGdg/company-logo_200_200/0/1664804219104/fondation_dispensaire_general_de_lyon_logo?e=1725494400&v=beta&t=AyTcChHOcPG41fNj3FKTH8DfzpoeQ6YFjhiTcGYLpT8",
+      "https://www.cti-commission.fr/wp-content/themes/cti/images/logo.png",
     date: "2024 2027",
     url: "",
     freelance: true,
