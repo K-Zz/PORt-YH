@@ -32,7 +32,7 @@ export const PARC: ParcourProps[] = [
     image:
       "",
     date: "2021 2020",
-    url: ",
+    url: "",
   },
   {
     title: "La Martiniere Monplaisir",
