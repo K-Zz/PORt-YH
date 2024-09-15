@@ -28,7 +28,7 @@ export const PARC: ParcourProps[] = [
   },
   {
     title: "Edouard Branly",
-    role: "BTS Cybersécurité, informatique réseaux (1)",
+    role: "Cycle Technologie et Sciences Industrielles",
     image:
       "https://media.licdn.com/dms/image/v2/C4E0BAQGknvKqpRdm8Q/company-logo_200_200/company-logo_200_200/0/1655918963085/lyce_edouard_branly_logo?e=1733961600&v=beta&t=2J_uHj0zURR72kSy_F6ZGrOlQYDwVMRHZLcvS-jn35Q",
     date: "2021 2020",
