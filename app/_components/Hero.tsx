@@ -31,7 +31,7 @@ export const Hero = () => {
             <div className="justify-center mt-10">
               <div className="relative lg:left-[-350px] lg:mt-[220px]"> 
             <Button className="px-8 py-4 bg-white text-black font-semibold rounded-lg shadow-md hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-75 transition duration-300 transform hover:scale-110 hover:shadow-lg hover:-translate-y-1">
-              <Link href="https://drive.google.com/file/d/1aR0As1jtiTcLu0XLchGAfxqvZdtWl6m2/view?usp=sharing" target="_blank" rel="noopener noreferrer">Mon CV</Link>
+              <Link href="">Mon CV</Link>
              </Button>
               </div>
             </div>     
