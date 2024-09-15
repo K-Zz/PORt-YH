@@ -9,15 +9,6 @@ import { Button } from "@/components/ui/button";
 import { BackgroundBeams } from "@/components/ui/background-beams";
 import { ButtonIcon } from "@radix-ui/react-icons";
 
-export const DetailsSection = () => {
-  return (
-    <Section id="details" className="mt-20">
-      {/* Contenu de la section "Détails" */}
-      <h2 className="text-2xl font-bold">Détails sur Yanis Hamoudi</h2>
-      <p>Ingénieur systèmes et réseaux...</p>
-    </Section>
-  );
-};
 export const Hero = () => {
   return (
     <Section className="flex max-md:flex-col items-center gap-4">
@@ -40,8 +31,8 @@ export const Hero = () => {
             <div className="justify-center mt-10">
               <div className="relative lg:left-[-350px] lg:mt-[220px]"> 
             <Button className="px-8 py-4 bg-white text-black font-semibold rounded-lg shadow-md hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-75 transition duration-300 transform hover:scale-110 hover:shadow-lg hover:-translate-y-1">
-              <Link href="#details">+ de détails</Link>
-            </Button>
+              <Link href="">+ de détails</Link>
+             </Button>
               </div>
             </div>     
         <div className="flex-[2] max-md:m-auto ml-auto z-10 relative">
