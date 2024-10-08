@@ -8,7 +8,7 @@ export const WORK: WorkProps[] = [
     role: "Ingénieur Réseaux & Systèmes",
     image:
       "https://media.licdn.com/dms/image/v2/C4D0BAQH180ACV7jEAg/company-logo_200_200/company-logo_200_200/0/1634301647615/koesio_logo?e=1736380800&v=beta&t=qnYMVCouJKV26BzRjFBT9UOW3lIU3bie7UBRyagGw0w",
-    date: "2024 2027",
+    date: "En cours",
     url: "",
     freelance: true,
   },
