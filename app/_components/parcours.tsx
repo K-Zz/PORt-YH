@@ -11,10 +11,10 @@ export const PARC: ParcourProps[] = [
     url: "",
   },
   {
-    title: "IUT Lyon 1",
-    role: "3. Informatique et systèmes",
+    title: "Edouard Branly",
+    role: "3. Adapatation Technicien Supérieur",
     image:
-      "https://media.licdn.com/dms/image/v2/D4E0BAQES4WRs2XOxEQ/company-logo_200_200/company-logo_200_200/0/1697874345787/iut_lyon_1_logo?e=1733961600&v=beta&t=RY0r36wc61IAij00rrLdWYYmBrfVeqVFXRrc7_PKvxE",
+      "https://media.licdn.com/dms/image/v2/C4E0BAQGknvKqpRdm8Q/company-logo_200_200/company-logo_200_200/0/1655918963085/lyce_edouard_branly_logo?e=1733961600&v=beta&t=2J_uHj0zURR72kSy_F6ZGrOlQYDwVMRHZLcvS-jn35Q",
     date: "2023",
     url: "",
   },
@@ -24,14 +24,6 @@ export const PARC: ParcourProps[] = [
     image:
       "https://media.licdn.com/dms/image/v2/C4D0BAQHajSv4G3XCKw/company-logo_200_200/company-logo_200_200/0/1631331403102?e=1733961600&v=beta&t=IDPPjo7TZAy0nDAOQ1pQBU4I5kjjP_QwvJJkGHJvROM",
     date: "2023 2021",
-    url: "",
-  },
-  {
-    title: "Edouard Branly",
-    role: "Cycle Technologie et Sciences Industrielles",
-    image:
-      "https://media.licdn.com/dms/image/v2/C4E0BAQGknvKqpRdm8Q/company-logo_200_200/company-logo_200_200/0/1655918963085/lyce_edouard_branly_logo?e=1733961600&v=beta&t=2J_uHj0zURR72kSy_F6ZGrOlQYDwVMRHZLcvS-jn35Q",
-    date: "2021 2020",
     url: "",
   },
   {
