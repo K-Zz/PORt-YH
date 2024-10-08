@@ -4,10 +4,10 @@ import Link from "next/link";
 
 export const WORK: WorkProps[] = [
    {
-    title: "",
-    role: "Ingénieur Réseaux & Système",
+    title: "Koesio",
+    role: "Ingénieur Réseaux & Systèmes",
     image:
-      "https://www.cti-commission.fr/wp-content/themes/cti/images/logo.png",
+      "https://media.licdn.com/dms/image/v2/C4D0BAQH180ACV7jEAg/company-logo_200_200/company-logo_200_200/0/1634301647615/koesio_logo?e=1736380800&v=beta&t=qnYMVCouJKV26BzRjFBT9UOW3lIU3bie7UBRyagGw0w",
     date: "2024 2027",
     url: "",
     freelance: true,
@@ -17,7 +17,7 @@ export const WORK: WorkProps[] = [
     role: "Administrateur systèmes et réseaux",
     image:
       "https://media.licdn.com/dms/image/v2/D4E0BAQGvrtdop5jGdg/company-logo_200_200/company-logo_200_200/0/1664804219104/fondation_dispensaire_general_de_lyon_logo?e=1733961600&v=beta&t=OHKkQFeRRaH0XT23JUwxpBSCrHn4DWDq1FpoLWSJWVc",
-    date: "2024 2023",
+    date: "2022 2023",
     url: "https://www.fdgl.fr/",
     freelance: true,
   },
@@ -26,7 +26,7 @@ export const WORK: WorkProps[] = [
     role: "Technicien Informatique",
     image:
       "https://media.licdn.com/dms/image/v2/D4E0BAQGvrtdop5jGdg/company-logo_200_200/company-logo_200_200/0/1664804219104/fondation_dispensaire_general_de_lyon_logo?e=1733961600&v=beta&t=OHKkQFeRRaH0XT23JUwxpBSCrHn4DWDq1FpoLWSJWVc",
-    date: "2023 2021",
+    date: "2022 2021",
     url: "https://www.fdgl.fr/",
     freelance: true,
   },
